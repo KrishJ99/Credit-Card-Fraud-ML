@@ -1,4 +1,4 @@
-# Credit-Card-Fraud Machine Learning
+# Credit Card Fraud Machine Learning
 The objective of this project was to develop a highly effective fraud detection system using machine learning techniques. We employed a Random Forest model due to its robustness and interpretability. Our analysis involved evaluating model performance, understanding feature importance, and utilizing SHAP (SHapley Additive exPlanations) for deeper insights into the model's decision-making process.
 
 ### **1. Model Performance**
